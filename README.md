@@ -69,3 +69,5 @@ Gere questões para revisão.
 Conclusão
 
 O NotebookLM permitiu consolidar informações de diversas fontes sobre análise técnica, facilitando a revisão dos conceitos e a construção de um material de consulta estruturado.
+
+https://notebooklm.google.com/notebook/19f12386-8f2b-415c-bf7c-e62785c4aafc
